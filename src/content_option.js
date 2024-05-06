@@ -55,7 +55,7 @@ const services = [{
     },
     {
         title: "Website & Database Creation",
-        description: "I can make a fully functioning website or database from scratch. I can use any language or database you prefer.",
+        description: "I can make a fully functioning website or database from scratch. I can use any language and database you prefer.",
     },
     {
         title: "Mobile Apps",
