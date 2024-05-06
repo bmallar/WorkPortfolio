@@ -17,58 +17,49 @@ const introdata = {
 
 const dataabout = {
     title: "A little about me",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "My name is Ben Mallar I am 23 years old. To get into coding I enrolled in a 12 week fast paced and intense full stack web development bootcamp at Northwestern. Devoting myself to this bootcamp made me fluent in many coding languages, it also made my problem solving and debugging skills prominent. Initally my goal for learning code was to get a high paying job, but every week of endless hours put in, I got more and more hooked. I started really enjoying it, while learning it at the same time, it made me realize more and more daily thingd people use is coded. I want to help make peoples lives easier with new and improved user friendly UX. I genuinely enjoy doing this and getting to work with others who think the same would be a dream.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "I am looking for someone to help me get my foot in the door",
+        where: "I can work remote or anywhere in the Panama City, Florida area",
+        
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+ 
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Javascript",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "React",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Database Management",
         value: 80,
     },
     {
-        name: "React",
+        name: "Node",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Api Integration",
         value: 85,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I am able to create or enhance UX for any app or website. There is always inprovements to be made to your code, whether its style or functionality.",
+    },
+    {
+        title: "Website & Database Creation",
+        description: "I can make a fully functioning website or database from scratch. I can use any language or database you prefer.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I can create you a mobile app. It can be a brand new idea or I can convert your website into a clean user friendly app.",
     },
 ];
 
