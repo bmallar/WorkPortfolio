@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Ben Mallar",
     animated: {
-        first: "I am a Software Developer and Data Analyst",
+        first: "I am a Software Developer and Data Scientist",
         second: "I code front-end and back-end for websites",
         third: "I develop fun and interavtive mobile apps ",
     },
@@ -64,50 +64,50 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.ibb.co/pyPS55g/Screenshot-32.png",
+        description: "Book search engine",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.ibb.co/z5gbrT8/quiz-page-screenshot.jpg",
+        description: "Trivl",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.ibb.co/19LytFY/activ-landing-page-screenshot.jpg",
+        description: "Activ",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/7j5ZKBz/Screenshot-37.png",
+        description: "SVG logo gen.",
+        link: "https://drive.google.com/file/d/1-UPC9yKsnIiLxzx-S__dyvfBCIKZxjKV/view",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "RROJECT 3",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/bsSy2mj/Screenshot-36.png",
+        description: "Readme gen",
+        link: "https://drive.google.com/file/d/18b5zajMlXSa1bqINpZ31olMabh7pIPYZ/view",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.ibb.co/7vLwJxd/Screenshot-28.png",
+        description: "Ai project",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/SxfxQHh/Screenshot-29.png",
+        description: "employee backend database",
+        link: "https://drive.google.com/file/d/1KX4SvbxbGGPrgvJToMTCYzKD0hbYz6kh/view",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/87k9q1x/Screenshot-27.png",
+        description: "PWA",
+        link: "https://pwa-texteditor-m4c4.onrender.com/",
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
@@ -115,8 +115,8 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.ibb.co/Qfjfx1P/Screenshot-3.png",
+        description: "Horiseon web page",
         link: "#",
     },
     {
@@ -130,8 +130,7 @@ const contactConfig = {
     YOUR_EMAIL: "benmallar@gmail.com",
     YOUR_FONE: "(815)501-5666",
     description: "You can reach out to me with any questions via phone, text or email ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+   
     YOUR_SERVICE_ID: "service_is2v9xi",
     YOUR_TEMPLATE_ID: "template_3vehi53",
     YOUR_USER_ID: "QoFrNel-NwhRj2kwk",
