@@ -1,6 +1,6 @@
 {
     "name": "react-portfolio",
-    "homepage": "https://bmallar.github.io/WorkPortfolio/home",
+    "homepage": "https://bmallar.github.io/WorkPortfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
